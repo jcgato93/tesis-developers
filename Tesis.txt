@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 probando
-=======
 Hola soy Juan
 Hola a todos
->>>>>>> main
+
